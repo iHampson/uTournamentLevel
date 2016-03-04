@@ -1,0 +1,17 @@
+FileVersion:1
+Type:Static
+
+/Game/RestrictedAssets/Pickups/Armor/ArmorBase.ArmorBase
+/Game/RestrictedAssets/Blueprints/JumpPad/BaseJumpPad.BaseJumpPad
+/Game/RestrictedAssets/Pickups/Powerups/PowerupBase.PowerupBase
+/Game/RestrictedAssets/Weapons/WeaponBase.WeaponBase
+/Game/RestrictedAssets/Pickups/Health/Health_Large.Health_Large
+/Game/RestrictedAssets/Pickups/Health/Health_Medium.Health_Medium
+/Game/RestrictedAssets/Pickups/Health/Health_Small.Health_Small
+/Game/RestrictedAssets/Weapons/BioRifle/BioAmmoPickup.BioAmmoPickup
+/Game/RestrictedAssets/Weapons/Flak/FlakAmmoPickup.FlakAmmoPickup
+/Game/RestrictedAssets/Weapons/LinkGun/LinkAmmoPickup.LinkAmmoPickup
+/Game/RestrictedAssets/Weapons/Minigun/MinigunAmmoPickup.MinigunAmmoPickup
+/Game/RestrictedAssets/Weapons/RocketLauncher/RocketAmmoPickup.RocketAmmoPickup
+/Game/RestrictedAssets/Weapons/ShockRifle/ShockAmmoPickup.ShockAmmoPickup
+/Game/RestrictedAssets/Weapons/Sniper/SniperAmmoPickup.SniperAmmoPickup

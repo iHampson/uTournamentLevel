@@ -1,0 +1,14 @@
+FileVersion:1
+Type:Static
+
+/Game/RestrictedAssets/Blueprints/JumpPad/BaseJumpPad.BaseJumpPad
+/Game/RestrictedAssets/Blueprints/Lift/Curves/EaseIn.EaseIn
+/Game/RestrictedAssets/Blueprints/Lift/Curves/EaseIn-Out.EaseIn-Out
+/Game/RestrictedAssets/Blueprints/Lift/Generic_Lift.Generic_Lift
+/Game/RestrictedAssets/Blueprints/Lift/Meshes/SM_CylinderLift.SM_CylinderLift
+/Game/RestrictedAssets/Blueprints/Lift/Curves/Linear.Linear
+/Game/RestrictedAssets/Blueprints/Lift/Meshes/SM_CylinderLift_Tall.SM_CylinderLift_Tall
+/Game/RestrictedAssets/Blueprints/Lift/Meshes/SM_GenericLift.SM_GenericLift
+/Game/RestrictedAssets/Blueprints/Lift/Meshes/SM_TechLift_Tall.SM_TechLift_Tall
+/Game/RestrictedAssets/Blueprints/Lift/Meshes/SM_WoodLift.SM_WoodLift
+/Game/RestrictedAssets/Blueprints/Lift/Meshes/SM_WoodLift_Tall.SM_WoodLift_Tall
